@@ -1,3 +1,4 @@
+//closure Example
 (function()
 {
     document.getElementById("messageID").innerHTML="Hello Sir"
